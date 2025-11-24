@@ -24,11 +24,11 @@ A simple React Native authentication flow using React Context API, React Navigat
    - npx expo start
 
 ## Screenshots
-![Login Screen](Screenshots/login1.jpeg)
-![Login Screen](Screenshots/login2.jpeg)
-![Login Screen](Screenshots/signup1.jpeg)
-![Login Screen](Screenshots/signup2.jpeg)
-![Login Screen](Screenshots/logout1.jpeg)
+<img src="Screenshots/login1.jpeg" alt="Login Screen" width="300"/>
+<img src="Screenshots/login2.jpeg" alt="Login Screen" width="300"/>
+<img src="Screenshots/signup1.jpeg" alt="Signup Screen" width="300"/>
+<img src="Screenshots/signup2.jpeg" alt="Signup Screen" width="300"/>
+<img src="Screenshots/logout1.jpeg" alt="Logout Screen" width="300"/>
 
 ## Notes
 This demo uses an in-memory user store for demonstration. Replace with a backend for production use.
