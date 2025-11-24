@@ -1,4 +1,9 @@
 # USER AUTHENTICATION APP
+![Expo](https://img.shields.io/badge/Expo-React%20Native-blue)
+
+## Requirements
+- Node.js >= 16
+- Expo CLI
 
 ## Overview
 A simple React Native authentication flow using React Context API, React Navigation, and AsyncStorage. Built entirely online in Expo Snack.
@@ -22,6 +27,16 @@ A simple React Native authentication flow using React Context API, React Navigat
    - npm install
 3. Run locally:
    - npx expo start
+  
+## Usage
+1. Open the app.
+2. Create a new account via Signup.
+3. Login with your credentials.
+4. View your profile on the Home screen.
+5. Logout to return to Login.
+
+## Live Demo
+Try it on [Expo Snack](https://snack.expo.dev/@mffm92/user-authentication-app)
 
 ## Screenshots
 <img src="Screenshots/login1.jpeg" alt="Login Screen" width="300"/>
